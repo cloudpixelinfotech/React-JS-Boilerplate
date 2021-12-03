@@ -1,0 +1,13 @@
+.login_set_css{
+    width: 35%;
+    margin: 0 auto;
+}
+body{
+    width: 70%;
+    font-size: 20px;
+    height: 70%;
+}
+.App{
+    /*background-color: #222222;*/
+    height: 750px;
+}
